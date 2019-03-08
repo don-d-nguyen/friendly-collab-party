@@ -10,3 +10,7 @@ Now I need to create a list:
 
 
 ### change, change, change
+
+*italic*
+**bold**
+***bold italic***
