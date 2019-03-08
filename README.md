@@ -10,6 +10,10 @@ Now I need to create a list:
 
 ### My contribution to this project
 
-1. Teach GitHub
-2. Keep him motivated
+1. **Teach GitHub**
+2. Keep him ***motivated***
 3. Show him how to make websites
+4. Confuse him less about *pull-requests*
+
+
+
