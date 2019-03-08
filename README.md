@@ -7,3 +7,9 @@ Now I need to create a list:
 - Learning about versions
 - Learning about collaboration
 - WOrking with GitHub
+
+### My contribution to this project
+
+1. Teach GitHub
+2. Keep him motivated
+3. Show him how to make websites
